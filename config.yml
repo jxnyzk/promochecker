@@ -1,0 +1,3 @@
+Theme: "yellow" # Either "black", "purple", "green", "blue", "red", "pink", "yellow"
+
+Proxyless: true # Either true or false | Use http/https proxys
