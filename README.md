@@ -1,10 +1,13 @@
 # Velocity Checker
 
 - What is it?
-Velocity Checker is a Tool, that checks Promo Codes and Nitro Gift Codes and shows stats and stuff about it.
+  - Velocity Checker is a Tool, that checks Promo Codes and Nitro Gift Codes and shows stats and stuff about it.
 
 - Configurable?
-Yes its highly configurable, there are many Themes to choose from.
+  - Yes its highly configurable, there are many Themes to choose from.
+
+- Quality Code?
+  - Yes and No. This code is good, but its very dirty and not good sorted, since I was way too lazy to do that too.
 
 ## Information:
 Please don't skid my tool. If you do so, please send money to my Crypto Wallet:
