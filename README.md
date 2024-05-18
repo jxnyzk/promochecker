@@ -17,5 +17,4 @@ Please don't skid my tool. If you do so, please send money to my Crypto Wallet:
 
 Or support me and my projects by buying/joining/exchanging on one of these servers:
 
-[Easy Exchange](https://discord.gg/easyexch)
 [Ultras Boost](https://discord.gg/ultrasboost)
